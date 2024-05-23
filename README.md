@@ -10,8 +10,8 @@
 
 * A presentation on the Jacobian method for mechanisms can be found here: [Presentation Here](https://www.slideserve.com/kendis/properties-of-the-jacobian-powerpoint-ppt-presentation)
 
-* Newton-Raphson:
-  ![Newton-Raphson Method Formula](https://en.neurochispas.com/wp-content/uploads/2023/01/Formula-for-the-Newton-Raphson-method.png)
+* Newton Raphson:
+<img src="https://en.neurochispas.com/wp-content/uploads/2023/01/Formula-for-the-Newton-Raphson-method.png" alt="Description of image" width="250" height="200">
 
 * Resulting formula: 
   ![Resulting Formula](image.png)
